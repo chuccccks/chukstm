@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋👋👋
 
-<!--
-**schwarzercm/schwarzercm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently `brain-storming` 🧠. 
+- 🌱 I’m currently learning c# and java.
+- 👯 I’m looking to collaborate on any projects that involve web dev, python c# or java or any minecraft projects. 
+- 💬 Contact if you need me to contribute.
+- 📫 How to reach me: `schwarzer#7344` on discord. 
+
+
+![based github stats](https://github-readme-stats.vercel.app/api?username=schwarzercm&hide=["stars"])
+
