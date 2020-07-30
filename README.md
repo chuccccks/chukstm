@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:`jgodwin42@icloud.com` or  `schwarzer#7344` on discord. 
 
 
-![based github stats](https://github-readme-stats.vercel.app/api?username=schwarzercm&show_icons=true&theme=dark))
+![based github stats](https://github-readme-stats.vercel.app/api?username=schwarzercm&show_icons=true&theme=dark)
 
