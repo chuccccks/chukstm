@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently `brain-storming` 🧠. 
+- 🔭 I’m currently `brain-storming` 🧠 + building my website!. 
 - 🌱 I’m also currently learning java.
 - 👯 I’m looking to collaborate on any projects that involve web dev, python, javascript or c#. 
 - 💬 Contact if you need me to contribute!
