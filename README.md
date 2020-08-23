@@ -1,8 +1,5 @@
 # Hi 👋👋👋
 
-
-![](https://github.com/schwarzercm/schwarzercm/blob/master/vrg_header_xrays_blue.0.jpg)
-
 Here are some ideas to get you started:
 - 🔭 I’m currently `brain-storming` 🧠 + building my website!
 - 🌱 I’m also currently learning java.
