@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🌱 I’m also currently learning java.
 - 👯 I’m looking to collaborate on any projects that involve web dev, python, javascript or c#. 
 - 💬 Contact if you need me to contribute!
-- 📫 How to reach me:`jgodwin42@icloud.com` or  `schwartz#7344` on discord. 
+- 📫 How to reach me:`jgodwin42@icloud.com` or  `schwarzercm#7344` on discord. 
 
 I'm a self-taught programmer and designer. 👺
 
