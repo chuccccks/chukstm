@@ -15,7 +15,7 @@ I'm a self-taught programmer and designer. 👺
 - [![tw](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=Twitter)](https://twitter.com/schwarzercm)
 
 
-![based github stats](https://github-readme-stats.vercel.app/api?username=chukstm&show_icons=true&theme=dark)
+![based github stats](https://github-readme-stats.vercel.app/api?username=chuccccks&show_icons=true&theme=dark)
 <!-- Credits --> <!--
 https://github.com/Clifton893/Clifton893
 -->
