@@ -7,8 +7,6 @@ Here are some ideas of what I am doing:
 - 💬 Contact if you need me to contribute!
 - 📫 How to reach me:`jgodwin1420@gmail.com` or  `![chukky]#5111` on discord. 
 
-I'm a self-taught programmer and designer. 👺
-
 ## Let's Connect! 🌐
 *If you want any art covers, I'm always around 😅
 - [![ig](https://img.shields.io/badge/Instagram-black?style=social&logo=Instagram)](https://www.instagram.com/chukkyiii/)
