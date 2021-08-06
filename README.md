@@ -5,7 +5,7 @@ Here are some ideas of what I am doing:
 - 🌱 I’m also currently learning gatsby.js
 - 👯 I’m looking to collaborate on any projects that involve web dev, python, javascript or c#. 
 - 💬 Contact if you need me to contribute!
-- 📫 How to reach me:`jgodwin1420@gmail.com` or  `![chukky]#5111` on discord. 
+- 📫 How to reach me:`jgodwin1420@gmail.com` or  `!{chukky}#5111` on discord. 
 
 ## Let's Connect! 🌐
 *If you want any art covers, I'm always around 😅
