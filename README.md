@@ -2,8 +2,8 @@
 
 Here are some ideas of what I am doing:
 - 🔭 I’m currently `brain-storming` 🧠
-- 🌱 I’m also currently learning react
-- 👯 I’m looking to collaborate on any projects that involve web dev, python, javascript or c#. 
+- 🌱 I’m also currently learning react and unity 
+- 👯 I’m looking to collaborate on any projects that involve web dev, python, javascript, c# or java. 
 - 💬 Contact if you need me to contribute!
 - 📫 How to reach me:`jgodwin1420@gmail.com` or  `!{chukky}#5111` on discord. 
 
