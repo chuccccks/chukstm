@@ -11,8 +11,12 @@ Here are some ideas of what I am doing:
 - [![ig](https://img.shields.io/badge/Instagram-black?style=social&logo=Instagram)](https://www.instagram.com/chukkyiii/)
 - [![tw](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=Twitter)](https://twitter.com/chukky_iii)
 
-
 ![based github stats](https://github-readme-stats.vercel.app/api?username=chukkyiii&show_icons=true&theme=dark)
+
+<!-- ![chuks' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chukkyiii) --> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chukkyiii&layout=compact&theme=dark)
+
 <!-- Credits --> <!--
 https://github.com/Clifton893/Clifton893
 -->
