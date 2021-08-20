@@ -5,7 +5,7 @@ Here are some ideas of what I am doing:
 - 🌱 I’m also currently learning react and unity 
 - 👯 I’m looking to collaborate on any projects that involve web dev, python, javascript, c# or java. 
 - 💬 Contact if you need me to contribute!
-- 📫 How to reach me:`jgodwin1420@gmail.com` or  `!{chukky}#5111` on discord. 
+- 📫 How to reach me: `!{chukky}#5111` on discord. 
 
 ## Let's Connect! 🌐
 - [![ig](https://img.shields.io/badge/Instagram-black?style=social&logo=Instagram)](https://www.instagram.com/chukkyiii/)
