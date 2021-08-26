@@ -1,4 +1,4 @@
-# 👋👋👋 ![](./hello.svg) 
+# ![](./hello.svg) 
 
 
 
