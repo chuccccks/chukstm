@@ -1,5 +1,6 @@
-# ![tumblr_772a954eea44b0ee6e8468a7e6346024_20818991_640](https://user-images.githubusercontent.com/59450581/143657577-6fc171b1-c58a-4528-a4a1-47de801d22dd.gif)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59450581/143657577-6fc171b1-c58a-4528-a4a1-47de801d22dd.gif" />
+</p>
 
 
 
@@ -18,7 +19,7 @@ Here are some ideas of what I am doing:
 
 <!-- ![chuks' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chukkyiii) --> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chukkyiii&layout=compact&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chukkyiii&layout=compact&theme=dark) -->
 
 <!-- Credits --> <!--
 https://github.com/Clifton893/Clifton893
