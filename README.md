@@ -5,8 +5,6 @@
 
 
 Here are some ideas of what I am doing:
-- 🔭 I’m currently groveling over my pet-project: [reacton](https://reacton.tech)
-- 🌱 I’m also currently learning react and unity 
 - 👯 I’m looking to collaborate on any projects that involve web dev, python, javascript, c# or java. 
 - 💬 Contact if you need me to contribute!
 - 📫 How to reach me: `!{chukky}#5111` on discord. 
