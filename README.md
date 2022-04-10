@@ -15,7 +15,3 @@ How to reach me: `!{chukky}#5111` on discord.
 <!-- ![chuks' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chukkyiii) --> 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chukkyiii&layout=compact&theme=dark) -->
-
-<!-- Credits --> <!--
-https://github.com/Clifton893/Clifton893
--->
