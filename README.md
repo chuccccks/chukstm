@@ -11,6 +11,7 @@ How to reach me: `!{chukky}#5111` on discord.
 - [![tw](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=Twitter)](https://twitter.com/chukky_iii)
 
 ![based github stats](https://github-readme-stats.vercel.app/api?username=chukkyiii&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chukkyiii&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- ![chuks' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chukkyiii) --> 
 
