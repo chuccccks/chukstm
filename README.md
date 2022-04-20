@@ -4,6 +4,8 @@
 
 Contact if you need me to contribute!
 
+Here is my [site](https://chukkyiii.tech), its cool 
+
 How to reach me: `!{chukky}#5111` on discord. 
 
 ## Let's Connect! 🌐
