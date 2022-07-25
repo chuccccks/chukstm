@@ -2,12 +2,6 @@
   <img src="https://user-images.githubusercontent.com/59450581/143657577-6fc171b1-c58a-4528-a4a1-47de801d22dd.gif" />
 </p>
 
-Contact if you need me to contribute!
-
-Here is my [site](https://chukkyiii.tech), its cool 
-
-How to reach me: `!{chukky}#5111` on discord. 
-
 ## Let's Connect! 🌐
 - [![ig](https://img.shields.io/badge/Instagram-black?style=social&logo=Instagram)](https://www.instagram.com/jesse.doka/)
 - [![tw](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=Twitter)](https://twitter.com/chukky_iii)
